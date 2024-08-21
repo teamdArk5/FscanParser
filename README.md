@@ -2,7 +2,7 @@
  一个用于处理fsacn输出结果的小工具（尤其面对大量资产的fscan扫描结果做输出优化，让你打点快人五步！！！）
 
 ## 版本支持
-目前只支持最新版本fscan(1.8.4)的扫描结果。
+目前只支持最新版本fscan(**1.8.4**)的扫描结果。
 
 ## 工具界面
 
@@ -38,8 +38,10 @@
 
 ![WeakPass](images/WeakPass.png)
 
-
+​	直接连接弱口令，无需再打开其他的连接工具。
 
 ![Connect](images/Connection.png)
+
+​	导出弱口令连接证明图到doc
 
 ![export docx](images/exportDocx.png)
