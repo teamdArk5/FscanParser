@@ -12,6 +12,10 @@
 
 ![](images/Log.png)
 
+### NetInfo
+
+![NetInfo](images/NetInfo.png)
+
 ### Windows
 
 显示Windows的机器信息
