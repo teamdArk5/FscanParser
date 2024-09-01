@@ -53,11 +53,14 @@
 ![export docx](images/exportDocx.png)
 
 ## 更新
+* 2024年9月1日 v1.3.3
+  * 更新Database选项卡数据显示bug
+
 * 2024年8月29日 v1.3.1
   * 增加NetInfo标签页的右键菜单
 
   * 增加部分菜单全选功能
-  
+
 * 2024年8月29日 v1.3
   * 修复程序解析Bug
 
