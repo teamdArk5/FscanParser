@@ -4,6 +4,14 @@
 ## 版本支持
 目前只支持最新版本fscan(**1.8.4**)的扫描结果：`fscan.exe -h 192.168.5.1/24 -o outputlocal.txt`
 
+致敬Fscan作者！！！
+
+## 视频教程
+
+![](images/qrcode.png)
+
+https://www.bilibili.com/video/BV1STpgetEYr/
+
 ## 工具界面
 
 ### 日志输出
