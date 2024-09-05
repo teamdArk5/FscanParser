@@ -8,8 +8,6 @@
 
 ## 视频教程
 
-![](images/qrcode.png)
-
 https://www.bilibili.com/video/BV1STpgetEYr/
 
 ## 工具界面
