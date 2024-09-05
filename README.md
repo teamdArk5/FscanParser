@@ -59,8 +59,11 @@ https://www.bilibili.com/video/BV1STpgetEYr/
 ![export docx](images/exportDocx.png)
 
 ## 更新
+* 2024年9月4日 v1.3.4
+  * 修复Web右键菜单中选项卡的Bug
+
 * 2024年9月1日 v1.3.3
-  * 更新Database选项卡数据显示bug
+  * 修复Database选项卡数据显示bug
 
 * 2024年8月29日 v1.3.1
   * 增加NetInfo标签页的右键菜单
