@@ -2,9 +2,9 @@
  一个用于处理fsacn输出结果的小工具（尤其面对大量资产的fscan扫描结果做输出优化，让你打点快人五步！！！）
 
 ## 版本支持
-目前只支持最新版本fscan(**1.8.4**)的扫描结果：`fscan.exe -h 192.168.5.1/24 -o outputlocal.txt`
+目前支持最新版本fscan(**1.8.4**)及[FscanPlus](https://github.com/teamdArk5/FscanPlus)的扫描结果：`fscan.exe -h 192.168.5.1/24 -o outputlocal.txt`
 
-致敬Fscan作者！！！
+让我们致敬Fscan！！！
 
 ## 视频教程
 
@@ -59,6 +59,9 @@ https://www.bilibili.com/video/BV1STpgetEYr/
 ![export docx](images/exportDocx.png)
 
 ## 更新
+* 2024年9月11日 v.1.3.5
+  * 修复Smb选项卡对结果展示不完整的Bug
+
 * 2024年9月4日 v1.3.4
   * 修复Web右键菜单中选项卡的Bug
 
