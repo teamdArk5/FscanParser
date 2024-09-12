@@ -59,7 +59,10 @@ https://www.bilibili.com/video/BV1STpgetEYr/
 ![export docx](images/exportDocx.png)
 
 ## 更新
-* 2024年9月11日 v.1.3.5
+* 2024年9月12日	v1.3.6
+  * 修复Web选项卡重复URL报错Bug
+
+* 2024年9月11日 v1.3.5
   * 修复Smb选项卡对结果展示不完整的Bug
 
 * 2024年9月4日 v1.3.4
