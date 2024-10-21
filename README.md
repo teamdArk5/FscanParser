@@ -61,6 +61,9 @@ https://www.bilibili.com/video/BV1STpgetEYr/
 ![export docx](images/exportDocx.png)
 
 ## 更新
+* 2024年10月21日 v1.3.7
+  * 修复Oracle和postgreSQL结果交叉显示bug
+
 * 2024年9月12日	v1.3.6
   * 修复Web选项卡重复URL报错Bug
 
