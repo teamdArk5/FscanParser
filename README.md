@@ -24,7 +24,7 @@ https://www.bilibili.com/video/BV1STpgetEYr/
 
 显示基于网卡数量信息，如为多网卡的机器我们就优先渗透。
 
-![NetInfo](images/NetInfo.png)
+![](images/NetInfo.png)
 
 ### Windows
 
