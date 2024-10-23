@@ -62,6 +62,7 @@ https://www.bilibili.com/video/BV1STpgetEYr/
 
 ## 更新
 * 2024年10月23日 v2.0
+  * 更新直接在界面调用Fscan扫描并填充结果文件路径。
   
 * 2024年10月21日 v1.3.7
   * 修复Oracle和postgreSQL结果交叉显示bug
