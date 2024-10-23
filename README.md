@@ -1,5 +1,5 @@
 # FscanParser
- 一个用于处理fsacn输出结果的小工具（尤其面对大量资产的fscan扫描结果做输出优化，让你打点快人五步！！！）
+ 一个用于处理fsacn输出结果的图形化工具（尤其面对大量资产的fscan扫描结果做输出优化，让你打点快人五步！！！）
 
 ## 版本支持
 目前支持最新版本fscan(**1.8.4**)及[FscanPlus](https://github.com/teamdArk5/FscanPlus)的扫描结果：`fscan.exe -h 192.168.5.1/24 -o outputlocal.txt`
@@ -30,13 +30,13 @@ https://www.bilibili.com/video/BV1STpgetEYr/
 
 显示Windows的机器信息
 
-![Windows](images/Windows.png)
+![](images/Windows.png)
 
 ### Web
 
 显示的是Web相关信息
 
-![Web](images/Web.png)
+![](images/Web.png)
 
 
 
@@ -44,13 +44,13 @@ https://www.bilibili.com/video/BV1STpgetEYr/
 
 显示存在漏洞的信息
 
-![BugList](images/BugList.png)
+![](images/BugList.png)
 
 ### WeakPass
 
 显示弱口令信息，支持连接、执行命令、自动截图留存整证明、自动连接并截图导出到docx等
 
-![WeakPass](images/WeakPass.png)
+![](images/WeakPass.png)
 
 ​	直接连接弱口令，无需再打开其他的连接工具。
 
@@ -61,6 +61,8 @@ https://www.bilibili.com/video/BV1STpgetEYr/
 ![export docx](images/exportDocx.png)
 
 ## 更新
+* 2024年10月23日 v2.0
+  
 * 2024年10月21日 v1.3.7
   * 修复Oracle和postgreSQL结果交叉显示bug
 
