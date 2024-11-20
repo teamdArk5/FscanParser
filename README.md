@@ -10,7 +10,7 @@
 
 ## 视频教程
 
-https://www.bilibili.com/video/BV1STpgetEYr/
+https://www.bilibili.com/video/BV1Z7STYEEDp
 
 ## 工具界面
 
