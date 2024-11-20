@@ -1,12 +1,12 @@
 # FscanParser
- 一个用于处理fsacn输出结果的图形化工具（尤其面对大量资产的fscan扫描结果做输出优化，让你打点快人五步！！！）
+ 一个用于处理fsacn输出结果的图形化工具（尤其面对大量资产的fscan扫描结果做输出优化，让你打点快人五步！！！），五天的工作5个小时搞定，剩下4天半摸鱼。
 
 ## 版本支持
-目前支持最新版本fscan(**1.8.4**)及[FscanPlus](https://github.com/teamdArk5/FscanPlus)的扫描结果：`fscan.exe -h 192.168.5.1/24 -o outputlocal.txt`
+目前支持最新版本[fscan](https://github.com/shadow1ng/fscan)(**1.8.4**)及[FscanPlus](https://github.com/teamdArk5/FscanPlus)的扫描结果：`fscan.exe -h 192.168.5.1/24 -o outputlocal.txt`
 
 旧版fscan结果与新版稍有不同，会影响展示结果，请尽量使用新版。
 
-让我们致敬Fscan！！！
+让我们致敬[Fscan](https://github.com/shadow1ng/fscan)！！！
 
 ## 视频教程
 
