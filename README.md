@@ -63,9 +63,12 @@ https://www.bilibili.com/video/BV1Z7STYEEDp
 ![export docx](images/exportDocx.png)
 
 ## 更新
+* 2024年12月25日
+  * 更新大版本3.0，适配最新版Fscan2.0的扫描结果。
+  
 * 2024年11月20日 v2.2
   * 新增结果排序功能，对每个结果的表格的表头单击后即可排序。
-  
+
 * 2024年11月17日 v2.1
   * 修复Windows显示版本信息不全的bug。
 
